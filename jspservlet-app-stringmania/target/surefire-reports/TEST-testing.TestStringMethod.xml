@@ -59,10 +59,10 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="testing.TestStringMethod" name="testLowerMethod" time="0.004"/>
+  <testcase classname="testing.TestStringMethod" name="testLowerMethod" time="0.006"/>
   <testcase classname="testing.TestStringMethod" name="testSetInputsMethod" time="0"/>
   <testcase classname="testing.TestStringMethod" name="testUpperMethod" time="0"/>
   <testcase classname="testing.TestStringMethod" name="testLengthMethod" time="0"/>
-  <testcase classname="testing.TestStringMethod" name="testTrimMethod" time="0.002"/>
+  <testcase classname="testing.TestStringMethod" name="testTrimMethod" time="0"/>
   <testcase classname="testing.TestStringMethod" name="testFirstCharacterMethod" time="0"/>
 </testsuite>
